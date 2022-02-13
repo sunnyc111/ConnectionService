@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectionService</string>
+    <string name = "msg_token_fmt" translatable = "false">FCM registration Token:% s</string>
+    <string name="reject_call">Reject</string>
+    <string name="answer_call">Answer</string>
+    <string name="deflect_call">Please grant the Call Deflect permission</string>
+</resources>
