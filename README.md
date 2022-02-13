@@ -20,15 +20,6 @@ Before building the project, you need to register your app with Firebase for rec
 
 <table>
   <tr>
-    <td>Video demo of incoming call FCM notification</td>
-  </tr>
-  <tr>
-        <td><video src="https://github.com/sunnyc111/ConnectionService/blob/master/record.mp4"/></td>
-  </tr>
- </table>
-
-<table>
-  <tr>
     <td>App screen asking for Grant Call permission</td>
      <td>Home page</td>
      <td>Asking for Call Deflect permission</td>
@@ -51,4 +42,8 @@ Before building the project, you need to register your app with Firebase for rec
     <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen5.jpg"></td>
     <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen6.jpg"></td>
   </tr>
+
+https://user-images.githubusercontent.com/7091438/153768101-b6a603f4-5647-4538-9143-c940feb6ebd8.mp4
+
+
  </table>
