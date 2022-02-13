@@ -23,9 +23,9 @@ Before building the project, you need to register your app with Firebase for rec
     <td>Video demo of incoming call FCM notification</td>
   </tr>
   <tr>
-    <td><video width="320" height="240" controls>
-    <source src="https://github.com/sunnyc111/ConnectionService/blob/master/record.mp4" type="video/mp4">
-    </video></td>
+    <td><video>
+        <source src="https://github.com/sunnyc111/ConnectionService/blob/master/record.mp4" type="video/mp4">
+        </video></td>
   </tr>
  </table>
 
