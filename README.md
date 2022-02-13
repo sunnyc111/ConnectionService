@@ -24,7 +24,7 @@ Before building the project, you need to register your app with Firebase for rec
   </tr>
   <tr>
     <td><video width="320" height="240" controls>
-    <source src="record.mp4" type="video/mp4">
+    <source src="https://github.com/sunnyc111/ConnectionService/blob/master/record.mp4" type="video/mp4">
     </video></td>
   </tr>
  </table>
@@ -36,9 +36,9 @@ Before building the project, you need to register your app with Firebase for rec
      <td>Asking for Call Deflect permission</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunnyc111/ApodNasa/blob/SanthoshaChigateri-WaIE/screen1.jpg"></td>
-    <td><img src="https://github.com/sunnyc111/ApodNasa/blob/SanthoshaChigateri-WaIE/screen2.jpg"></td>
-    <td><img src="https://github.com/sunnyc111/ApodNasa/blob/SanthoshaChigateri-WaIE/screen3.jpg"></td>
+    <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen1.jpg"></td>
+    <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen2.jpg"></td>
+    <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen3.jpg"></td>
   </tr>
  </table>
 
@@ -49,8 +49,8 @@ Before building the project, you need to register your app with Firebase for rec
      <td>Showing call screen after clicking on Answer</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunnyc111/ApodNasa/blob/SanthoshaChigateri-WaIE/screen4.jpg"></td>
-    <td><img src="https://github.com/sunnyc111/ApodNasa/blob/SanthoshaChigateri-WaIE/screen5.jpg"></td>
-    <td><img src="https://github.com/sunnyc111/ApodNasa/blob/SanthoshaChigateri-WaIE/screen6.jpg"></td>
+    <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen4.jpg"></td>
+    <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen5.jpg"></td>
+    <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen6.jpg"></td>
   </tr>
  </table>
