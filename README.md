@@ -16,6 +16,9 @@ Before building the project, you need to register your app with Firebase for rec
 1. <a href="https://developer.android.com/reference/android/telecom/ConnectionService">ConnectionService</a>;
 2. <a href="https://developer.android.com/guide/topics/connectivity/telecom/selfManaged">Build a calling app</a>;
 
+## App Video demo
+https://user-images.githubusercontent.com/7091438/153768101-b6a603f4-5647-4538-9143-c940feb6ebd8.mp4
+
 ## Apps Screens
 
 <table>
@@ -42,8 +45,4 @@ Before building the project, you need to register your app with Firebase for rec
     <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen5.jpg"></td>
     <td><img src="https://github.com/sunnyc111/ConnectionService/blob/master/screen6.jpg"></td>
   </tr>
-
-https://user-images.githubusercontent.com/7091438/153768101-b6a603f4-5647-4538-9143-c940feb6ebd8.mp4
-
-
  </table>
