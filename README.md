@@ -11,6 +11,9 @@ An abstract service that should be implemented by any apps which either:
 Before building the project, you need to register your app with Firebase for receiving FCM notification.
 
 **Note:** You can use Postman to send the payload and works as your server..
+<img width="647" alt="postman" src="https://user-images.githubusercontent.com/7091438/153768357-7163dfc4-5153-4ef9-ac1c-943df8e8bbb5.png">
+
+
 
 ## References
 1. <a href="https://developer.android.com/reference/android/telecom/ConnectionService">ConnectionService</a>;
